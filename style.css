@@ -1,0 +1,250 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    border-color: rgb(0, 123, 246);
+    background-color: rgb(0, 123, 246);
+    color: white;
+    display: inline-block;
+    padding: 0.4% 0.75%;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header a {
+    color: gray;
+}
+
+header a:hover {
+    color: black;
+}
+
+.tr {
+    padding: 0 10px;
+}
+
+header {
+    padding: 40px 0px;
+}
+
+.home {
+    padding-left: 700px;
+}
+
+.vr-title {
+    display: inline;
+}
+
+.vr-photo {
+    display: inline-block;
+    margin-left: 600px;
+    margin-top: -400px;
+}
+
+.doctor {
+    width: 700px;
+}
+
+.vr-title a {
+    background-color:  rgb(0, 123, 246);
+    display: block;
+    border-radius: 30px;
+    border-color:  rgb(0, 123, 246);
+    padding: 20px 50px;
+    margin-top: 40px;
+    margin-left: -20px;
+    color: white;
+}
+.vr-title  h1{
+    font-size:50px;
+    margin-top: 100px;
+}
+.vr-title p{
+    color: gray;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.our-services h1{
+    padding: 10px 42%;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.our-services span{
+    color: gray;
+    padding: 15px 15%;
+    font-size: 20px;
+}
+.spn{
+    margin-left: 40px;
+}
+.line{
+    border-color: black;
+    background-color: black;
+    border-width: 1px;
+    border-style:solid;
+    margin-top: 20px;
+    width: 60px;
+    margin-left: 810px;
+    margin-bottom: 30px;
+}
+.search{
+    display: inline-block;
+    padding: 20px 20px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 20px 40px;
+    width:  400px;
+    height: 350px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+}
+.search h1{
+    font-size: 30px;
+    padding: 10px 0;
+}
+.search p{
+    font-size: 23px;
+    color:  #7D7987;
+}
+.back{
+    position: relative;
+}
+.back img{
+    position: absolute;
+    z-index: -1;
+}
+.back2{
+    position: relative;
+}
+.back2 img{
+    position: absolute;
+    left: 1320px;
+    z-index: -1;
+    bottom: -80px;
+}
+.manu-btn a{
+    border-width: 1px;
+    border-color: #458FF6;
+    border-style: solid;
+    color: #458FF6;
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+.manu-btn{
+    padding-left: 770px;
+    padding-top: 50px;
+}
+.ld-title{
+    display: inline-block;
+    padding-left: 50px;
+    vertical-align: top;
+    padding-top: 80px;
+}
+.ld-photo{
+    display: inline-block;
+}
+.ld-title h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.ld-photo img{
+    display: block;
+    width: 700px;
+}
+.ld-title p{
+    font-size: 25px;
+    color: #7D7987;
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+.ld-title a{
+    border-width: 1px;
+    border-color: #458FF6;
+    border-style: solid;
+    color: #458FF6;
+    padding: 15px 40px;
+    border-radius: 20px;
+}
+.line2{
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    width: 100px;
+    margin: 40px 0;
+}
+.ld-title span{
+    vertical-align: middle;
+}
+.ld-head{
+    margin: 70px 0;
+}
+.customer{
+    background-color: #67C3F3;
+    border-radius: 30px;
+    width: 1700px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.wht-say h1{
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-left: calc(35% - 50px);
+}
+.line3{
+    border-color: #FFFFFF;
+    border-width: 5px;
+    border-style: solid;
+    width: 50px;
+    margin-left: calc(47%);
+    margin-top: 50px;
+}
+.edward-photo{
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 200px;
+}
+.edward-photo img{
+    display: block;
+}
+.edward-title{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 60px;
+    color: #FFFFFF;
+    padding-left: 30px;
+    font-size: 30px;
+}
+.edward-title2{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 30px;
+}
+.edward-title2 p{
+    font-size: 30px;
+    color: #FFFFFF;
+    padding-left: 200px;
+}
+.navigate{
+    padding-left: 42%;
+    margin:30px 0;
+}
